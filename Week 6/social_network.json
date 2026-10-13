@@ -1,0 +1,7 @@
+{
+  "Amina Ali": ["Amina Petrov", "Anna de Boer"],
+  "Amina Petrov": ["Amina Ali", "Bram Mulder"],
+  "Anna de Boer": ["Amina Ali", "Bram Smit"],
+  "Bram Mulder": ["Amina Petrov"],
+  "Bram Smit": ["Anna de Boer"]
+}
