@@ -1,0 +1,11 @@
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local archives and editor files
+*.zip
+.vscode/
+.idea/
